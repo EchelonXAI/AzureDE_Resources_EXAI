@@ -1,0 +1,25 @@
+[
+	{
+		"sourceBaseURL":"https://raw.githubusercontent.com/",
+		"sourceRelativePath":"EchelonXAI/AzureDE_Resources_EXAI/refs/heads/main/ECDC_Dataset/cases_deaths.csv",
+		"sinkFileName":"test_cases_deaths.csv"
+	}
+	,
+	{
+		"sourceBaseURL":"https://raw.githubusercontent.com/",
+		"sourceRelativePath":"EchelonXAI/AzureDE_Resources_EXAI/refs/heads/main/ECDC_Dataset/hospital_admissions.csv",
+		"sinkFileName":"test_hospital_admissions.csv"
+	}
+	,
+	{
+		"sourceBaseURL":"https://raw.githubusercontent.com/",
+		"sourceRelativePath":"EchelonXAI/AzureDE_Resources_EXAI/refs/heads/main/ECDC_Dataset/testing.csv",
+		"sinkFileName":"test_testing.csv"
+	}
+	,
+	{
+		"sourceBaseURL":"https://raw.githubusercontent.com/",
+		"sourceRelativePath":"EchelonXAI/AzureDE_Resources_EXAI/refs/heads/main/ECDC_Dataset/country_response.csv",
+		"sinkFileName":"test_ country_responses.csv"
+	}
+]
